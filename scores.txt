@@ -1,5 +1,5 @@
 luk,5398
 aaa,33
 luk,3238
+plk,2572
 aba,25
-luk,21
